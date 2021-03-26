@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "montreg";
+  src: url(fonts/montreg.ttf);
+}
+@font-face {
+  font-family: "montbold";
+  src: url(fonts/montbold.ttf);
+}
+@font-face {
+  font-family: "bababold";
+  src: url(fonts/bababold.ttf);
+}
+body {
+  font-family: "montreg";
+  color: black;
+  background: grey;
+}
+h1 {
+  font-family: "bababold";
+  font-size: 75px;
+}
+h2 {
+  font-family: "montreg";
+  font-size: 70px;
+}
+p{
+  font-family: "montreg";
+  font-size: 40px;
+}
+p1 {
+  font-family: "montreg";
+  font-size: 35px;
+}
+a {
+  font-family: "montbold";
+  font-size: 35px;
+  color: rgb(0, 110, 255);
+}
+a:hover {
+color: rgb(0, 25, 255);
+}
+button {
+  background-color: #00FF78;
+  font-family: "montbold";
+  font-size: 40px;
+  color: #0000FF;
+}
+button:hover {
+  color: #00FF78;
+  background-color: #0000FF;
+}

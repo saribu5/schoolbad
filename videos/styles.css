@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "montreg";
+  src: url(fonts/montreg.ttf)
+}
+@font-face {
+  font-family: "babapro";
+  src: url(fonts/BabaPro.ttf);
+}
+body {
+  font-family: "montreg";
+  background: aquamarine
+}
+h1 {
+  font-family: "babapro";
+  font-size: 40px;
+}
+h2 {
+  font-family: "montreg";
+  font-size: 40px;
+}
+p {
+  font-family: "montreg";
+  font-size: 30px;
+}
+a {
+  font-family: "montreg";
+  font-size: 35px;
+  color: rgb(0, 110, 255)
+}
+a:hover {
+  color: rgb(0, 25, 255)
+}
