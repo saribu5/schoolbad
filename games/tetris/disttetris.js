@@ -1238,7 +1238,7 @@ var Tetris = function () {
 
             ctx.font = "30px Arial";
             ctx.textAlign = "center";
-            ctx.fillStyle = "rgba(255, 255, 255, 0.3)";
+            ctx.fillStyle = "rgba(200, 200, 200, 0.3)";
 
             ctx.fillRect(0, 0, 300, 600);
 
