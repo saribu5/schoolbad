@@ -1,15 +1,15 @@
 @font-face {
   font-family: "babapro";
-  src: url(fonts/BabaPro.ttf);
+  src: url(!fonts/BabaPro.ttf);
 }
 @font-face {
   font-family: "bababold";
-  src: url(fonts/bababold.ttf);
+  src: url(!fonts/bababold.ttf);
 
 }
 @font-face {
   font-family: "montreg";
-  src: url(fonts/montreg.ttf);
+  src: url(!fonts/montreg.ttf);
 }
 body {
   font-family: "babapro";
